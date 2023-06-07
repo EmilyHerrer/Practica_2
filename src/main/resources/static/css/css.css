@@ -1,0 +1,118 @@
+.B {
+    position: relative;
+    left: 200px;
+    top: 10px;
+    color: green;
+}
+.b{
+    display: inline;
+    width: 150px;
+    height: 100px;
+}
+.c{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.ce{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.d{  position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.de{position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.e{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.ee{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.f{position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.fe{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.a{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.aa{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.s{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    color: brown;
+}
+.ss{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.q{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.qq{
+     position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.r{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.rr{
+   position:relative;
+    text-align:justify;
+    left: 25px; 
+}
+.t{
+   position: relative;
+    left: 20px;
+    top: 10px; 
+}
+.tt{
+    position:relative;
+    text-align:justify;
+    left: 25px;
+}
+.i{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.ii{
+     position:relative;
+    text-align:justify;
+    left: 25px;
+}
+body{
+   background-color:  antiquewhite;
+}
+
